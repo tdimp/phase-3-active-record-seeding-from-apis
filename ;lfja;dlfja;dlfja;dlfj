@@ -1,0 +1,24 @@
+=> [[32m#<Spell:0x0000555e7c4a8690[0m
+  id: [1;34m1[0m,
+  name: [31m[1;31m"[0m[31mAcid Arrow[1;31m"[0m[31m[0m,
+  level: [1;34m2[0m,
+  description:
+   [31m[1;31m"[0m[31mA shimmering green arrow streaks toward a target within range and bursts in a spray of acid. Make a ranged spell attack against the target. On a hit, the target takes 4d4 acid damage immediately and 2d4 acid damage at the end of its next turn. On a miss, the arrow splashes the target with acid for half as much of the initial damage and no damage at the end of its next turn.[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Spell:0x0000555e7c4a83e8[0m
+  id: [1;34m2[0m,
+  name: [31m[1;31m"[0m[31mAnimal Messenger[1;31m"[0m[31m[0m,
+  level: [1;34m2[0m,
+  description:
+   [31m[1;31m"[0m[31mBy means of this spell, you use an animal to deliver a message. Choose a Tiny beast you can see within range, such as a squirrel, a blue jay, or a bat. You specify a location, which you must have visited, and a recipient who matches a general description, such as [1;35m\"[0m[31ma man or woman dressed in the uniform of the town guard[1;35m\"[0m[31m or [1;35m\"[0m[31ma red-haired dwarf wearing a pointed hat.[1;35m\"[0m[31m You also speak a message of up to twenty-five words. The target beast travels for the duration of the spell toward the specified location, covering about 50 miles per 24 hours for a flying messenger, or 25 miles for other animals.[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Spell:0x0000555e7c4a8208[0m
+  id: [1;34m3[0m,
+  name: [31m[1;31m"[0m[31mCalm Emotions[1;31m"[0m[31m[0m,
+  level: [1;34m2[0m,
+  description:
+   [31m[1;31m"[0m[31mYou attempt to suppress strong emotions in a group of people. Each humanoid in a 20-foot-radius sphere centered on a point you choose within range must make a charisma saving throw; a creature can choose to fail this saving throw if it wishes. If a creature fails its saving throw, choose one of the following two effects. You can suppress any effect causing a target to be charmed or frightened. When this spell ends, any suppressed effect resumes, provided that its duration has not expired in the meantime.[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Spell:0x0000555e7c497f98[0m
+  id: [1;34m4[0m,
+  name: [31m[1;31m"[0m[31mCharm Person[1;31m"[0m[31m[0m,
+  level: [1;34m1[0m,
+  description:
+   [31m[1;31m"[0m[31mYou attempt to charm a humanoid you can see within range. It must make a wisdom saving throw, and does so with advantage if you or your companions are fighting it. If it fails the saving throw, it is charmed by you until the spell ends or until you or your companions do anything harmful to it. The charmed creature regards you as a friendly acquaintance. When the spell ends, the creature knows it was charmed by you.[1;31m"[0m[31m[0m[32m>[0m]
